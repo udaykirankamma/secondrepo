@@ -1,1 +1,5 @@
 This script creates two variables (num1 and num2), adds them together, and prints the result.
+
+
+
+This interactive script introduces if statements and a while loop. It asks you to guess a predefined secret number until you get it right. [1] (https://www.youtube.com/watch?v=Ro_MScTDfU4&t=773), [2] (https://www.freecodecamp.org/news/python-program-examples-simple-code-examples-for-beginners/)
