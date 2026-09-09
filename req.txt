@@ -1,0 +1,1 @@
+This script creates two variables (num1 and num2), adds them together, and prints the result.
